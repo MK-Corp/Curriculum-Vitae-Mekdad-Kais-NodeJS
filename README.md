@@ -1,2 +1,2 @@
-# Curriculum-Vitae-Mekdad-Kais-NodeJS
-Mon CV en ligne, fait en NodeJS et "dockerisé".
+# Curriculum-Vitae-Mekdad-Kais-React
+Mon CV en ligne, fait en React.

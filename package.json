@@ -1,0 +1,26 @@
+{
+  "name": "Curriculum-Vitae-Mekdad-Kais-React",
+  "version": "1.0.0",
+  "description": "Mon CV en ligne, fait en React.",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "build": "cd client && npm install && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MK-Corp/Curriculum-Vitae-Mekdad-Kais-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MK-Corp/Curriculum-Vitae-Mekdad-Kais-React/issues"
+  },
+  "homepage": "https://github.com/MK-Corp/Curriculum-Vitae-Mekdad-Kais-React#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  }
+}
